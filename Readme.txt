@@ -1,0 +1,1 @@
+I have implemented only one of the functionality- The functionality of displaying the most popular tweet.
