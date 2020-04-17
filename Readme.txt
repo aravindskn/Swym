@@ -1,1 +1,1 @@
-I have implemented only one of the functionality- The functionality of displaying the most popular tweet.
+A PHP based application to List the recent tweets of a searched tweeter handle. The tweets can be sorted according to most popular, most retweeted and most recent.
